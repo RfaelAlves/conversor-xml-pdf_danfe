@@ -1,8 +1,3 @@
-"""
-Layouts DANFE para diferentes versões de NF-e
-Salve este arquivo como danfe_layouts.py no mesmo diretório do script principal
-"""
-
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.units import mm
 from reportlab.lib import colors
